@@ -50,3 +50,12 @@ Here are some ideas to get you started:
 - 👍 JavaScript & TypeScript
 - 🎯 Self-taught front end Web technology
 - 💖 *Infinite Progress*
+
+- 徽章来源(在线生成徽章的网站)
+
+[https://shields.io](https://shields.io/)
+[https://badgen.net](https://shields.io/)
+[https://forthebadge.com/](https://forthebadge.com/)
+[https://badge.fury.io](https://shields.io/)
+[https://github.com/boennemann/badges](https://github.com/boennemann/badges) 
+
