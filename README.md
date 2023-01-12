@@ -51,6 +51,10 @@ Here are some ideas to get you started:
 - 🎯 Self-taught front end Web technology
 - 💖 *Infinite Progress*
 
+
+
+
+
 - 徽章来源(在线生成徽章的网站)
 
 [https://shields.io](https://shields.io/)
